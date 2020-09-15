@@ -1,1 +1,1 @@
-welcome toe my first Repo
+ Learning git is going well so far
